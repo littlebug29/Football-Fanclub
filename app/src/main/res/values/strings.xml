@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Zuju Digital</string>
+    <string name="matches">Matches</string>
+    <string name="teams">Teams</string>
+    <string name="home">Home</string>
+    <string name="away">Away</string>
+    <string name="winner">Winner</string>
+    <string name="watch_highlight">Watch highlight</string>
+    <string name="remind_me">Reminder</string>
+    <string name="versus">vs</string>
+</resources>
